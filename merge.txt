@@ -1,0 +1,6 @@
+Tout à fait ! C'est une excellente observation.
+
+git merge a pour effet de créer un nouveau commit qui représente la fusion des deux branches. Ce commit de fusion est unique en ce sens qu'il possède deux parents :
+
+Le premier parent est le dernier commit de la branche dans laquelle vous effectuez le merge.
+Le deuxième parent est le dernier commit de la branche que vous fusionnez.
