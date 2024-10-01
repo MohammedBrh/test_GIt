@@ -1,0 +1,4 @@
+Cas particuliers:
+
+Fast-forward merge: Si la branche que vous fusionnez est une branche directe de la branche courante, Git peut simplement avancer le pointeur de la branche courante sans créer de nouveau commit. C'est ce qu'on appelle un "fast-forward merge".
+Merge avec conflits: Si des conflits surviennent, vous devez les résoudre manuellement avant de pouvoir effectuer le merge.
